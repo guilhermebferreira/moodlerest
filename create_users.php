@@ -19,7 +19,7 @@ mb_internal_encoding("UTF-8");
 
 /// SETUP - NEED TO BE CHANGED
 $token = 'ad874e6d9f50389e180f49f4d926d50e';
-	$domainname = 'http://localhost/moodle';
+$domainname = 'http://localhost/moodle';
 $functionname = 'core_user_create_users';
 $restformat = 'json';
 
